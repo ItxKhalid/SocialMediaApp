@@ -8,7 +8,7 @@ class LogInView extends StatelessWidget {
   Widget build(BuildContext context) {
     return  Scaffold(
       appBar:AppBar(),
-      body:LogInBody(),
+      body:const LogInBody(),
     );
   }
 }

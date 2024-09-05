@@ -4,7 +4,8 @@ description: "A new Flutter project."
 version: 1.0.0+1
 
 environment:
-  sdk: ^3.5.0
+  sdk: '>=3.1.0 <4.0.0'
+#  sdk: '>=3.3.2 <4.0.0' /// new one use in letest
 
 dependencies:
   flutter:
@@ -12,6 +13,9 @@ dependencies:
 
 
   cupertino_icons: ^1.0.8
+  flutter_screenutil:
+  get:
+  google_fonts:
 
 dev_dependencies:
   flutter_test:
