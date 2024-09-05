@@ -16,6 +16,8 @@ dependencies:
   flutter_screenutil:
   get:
   google_fonts:
+  fluttertoast:
+  flutter_svg:
 
 dev_dependencies:
   flutter_test:
